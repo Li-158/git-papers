@@ -19,3 +19,4 @@ if yes, you would see the filename with green
 step.4:
 	git commit 
 	
+Ok, you would add the file into the repository
