@@ -23,3 +23,12 @@ step.4:
 Ok, you would add the file into the repository
 There are some problems when I would like to code git commit
 
+Step.5:
+	you can compare the modified version and original version 
+	use
+	" git diff" 
+Step.6: 
+	you can see who, when, what change the file 
+	use " git log" 
+
+
