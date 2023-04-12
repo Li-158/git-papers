@@ -20,3 +20,5 @@ step.4:
 	git commit 
 	
 Ok, you would add the file into the repository
+There are some problems when I would like to code git commit
+
