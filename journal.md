@@ -30,5 +30,15 @@ Step.5:
 Step.6: 
 	you can see who, when, what change the file 
 	use " git log" 
-
+Step.7: 
+	git checkout "branch_name"
+	let you chenge the branch
+step.8:
+	git branch
+	let you know which branch you are 
+stpe.9:
+	now you can choose the branch you would like to update to remote repository 
+	
+	SO, type:
+	
 
